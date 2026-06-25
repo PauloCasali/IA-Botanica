@@ -1,0 +1,9 @@
+# Ambientes Virtuais
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Banco de Dados Vetorial
+chroma_db/
